@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-12\bin\java.exe" --module-path "C:\Users\Michael\Development\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml -jar Pop3Client_jar.jar
